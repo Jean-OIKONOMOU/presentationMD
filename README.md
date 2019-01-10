@@ -16,12 +16,14 @@ It means *"By teaching, we learn"*. It's a quote I try to live by.
 Since I'm here to study web development let me give you an example of two things I use for that:
 
 #### Javascript (ECMAscript)
-```console.log('Hello, world');```
+```Javascript
+console.log('Hello, world');```
 
 *This code prints 'Hello, world' to the console.*
 
 #### HTML
-```<p>I LOVE PEARL JAM !</p>```
+```html
+<p>I LOVE PEARL JAM !</p>```
 
 *This code prints out 'I LOVE PEARL JAM' in your web browser.*
 
