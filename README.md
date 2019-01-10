@@ -22,7 +22,7 @@ console.log('Hello, world');```
 *This code prints 'Hello, world' to the console.*
 
 #### HTML
-```html
+```
 <p>I LOVE PEARL JAM !</p>```
 
 *This code prints out 'I LOVE PEARL JAM' in your web browser.*
