@@ -5,6 +5,10 @@ html {
   font-family: "Fira Sans", Verdana;
 }
 
+body {
+  background-image: url('bg.jpg');
+}
+
 .me {
   border: 4px solid #ffd936;
   border-radius: 4px;
