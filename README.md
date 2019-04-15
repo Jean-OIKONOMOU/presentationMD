@@ -1,3 +1,6 @@
+# What is this?
+This site, and this markdown document, were among some of my first exercices as a web developer. We had to write a markdown document (this one) and then create it in HTML / CSS with some added effects. The whole thing went pretty well, I had a lot of fun.
+
 # Me, Myself, and I - A little bit about myself
 ---
 What do I look like ? Well, I look like this...
